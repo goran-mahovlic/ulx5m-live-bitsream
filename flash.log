@@ -1,9 +1,9 @@
 From github.com:goran-mahovlic/ulx5m-live-bitsream
-   ec1bed5..b7f264a  main       -> origin/main
+   1c3ff2c..802d0fa  main       -> origin/main
 New commits found. Pulling changes...
 From github.com:goran-mahovlic/ulx5m-live-bitsream
  * branch            main       -> FETCH_HEAD
-Updating ec1bed5..b7f264a
+Updating 1c3ff2c..802d0fa
 Fast-forward
 Power OFF
 Failed to set port status by writing to /sys/bus/usb/devices/1-10:1.0/1-10-port2/disable (Permission denied).
@@ -44,39 +44,39 @@ ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
   libswresample   4. 12.100 /  4. 12.100
   libpostproc    57.  3.100 / 57.  3.100
 mime type is not rfc8216 compliant
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-VERSION:6')
-[hls @ 0x56f936e9a840] Opening 'http://localhost:8899/hls/0/stream.m3u8' for reading
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-VERSION:6')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-INDEPENDENT-SEGMENTS')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:16.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:17.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:18.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:19.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:20.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:21.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:22.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:23.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:24.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:25.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:26.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:27.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:28.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:29.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:30.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:31.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:32.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:33.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:34.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:35.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:36.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:37.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:38.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:39.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:40.015+0000')
-[hls @ 0x56f936e9a840] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7137.ts' for reading
-[hls @ 0x56f936e9a840] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7138.ts' for reading
+[hls @ 0x59badd099840] Skip ('#EXT-X-VERSION:6')
+[hls @ 0x59badd099840] Opening 'http://localhost:8899/hls/0/stream.m3u8' for reading
+[hls @ 0x59badd099840] Skip ('#EXT-X-VERSION:6')
+[hls @ 0x59badd099840] Skip ('#EXT-X-INDEPENDENT-SEGMENTS')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:16.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:17.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:18.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:19.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:20.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:21.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:22.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:23.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:24.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:25.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:26.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:27.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:28.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:29.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:30.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:31.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:32.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:33.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:34.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:35.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:36.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:37.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:38.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:39.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:40.015+0000')
+[hls @ 0x59badd099840] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7617.ts' for reading
+[hls @ 0x59badd099840] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7618.ts' for reading
 Input #0, hls, from 'http://localhost:8899/hls/stream.m3u8':
-  Duration: N/A, start: 7138.400000, bitrate: N/A
+  Duration: N/A, start: 7618.400000, bitrate: N/A
   Program 0 
     Metadata:
       variant_bitrate : 409024
@@ -89,98 +89,98 @@ Input #0, hls, from 'http://localhost:8899/hls/stream.m3u8':
 Stream mapping:
   Stream #0:0 -> #0:0 (h264 (native) -> mjpeg (native))
 Press [q] to stop, [?] for help
-[swscaler @ 0x56f936f6fd80] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x59badd16ee80] deprecated pixel format used, make sure you did set range correctly
     Last message repeated 1 times
-[swscaler @ 0x56f937f03680] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x59bade102e80] deprecated pixel format used, make sure you did set range correctly
     Last message repeated 1 times
-[http @ 0x56f936ebfb80] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7139.ts' for reading
-[http @ 0x56f936ea1d80] Opening 'http://localhost:8899/hls/0/stream.m3u8' for reading
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-VERSION:6')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-INDEPENDENT-SEGMENTS')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:17.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:18.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:19.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:20.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:21.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:22.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:23.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:24.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:25.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:26.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:27.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:28.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:29.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:30.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:31.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:32.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:33.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:34.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:35.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:36.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:37.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:38.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:39.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:40.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:41.015+0000')
-[http @ 0x56f936ebfb80] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7140.ts' for reading
-[http @ 0x56f936ea1d80] Opening 'http://localhost:8899/hls/0/stream.m3u8' for reading
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-VERSION:6')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-INDEPENDENT-SEGMENTS')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:18.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:19.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:20.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:21.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:22.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:23.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:24.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:25.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:26.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:27.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:28.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:29.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:30.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:31.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:32.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:33.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:34.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:35.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:36.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:37.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:38.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:39.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:40.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:41.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:42.015+0000')
-[http @ 0x56f936ebfb80] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7141.ts' for reading
-[http @ 0x56f936ea1d80] Opening 'http://localhost:8899/hls/0/stream.m3u8' for reading
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-VERSION:6')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-INDEPENDENT-SEGMENTS')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:19.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:20.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:21.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:22.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:23.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:24.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:25.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:26.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:27.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:28.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:29.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:30.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:31.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:32.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:33.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:34.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:35.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:36.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:37.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:38.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:39.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:40.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:41.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:42.015+0000')
-[hls @ 0x56f936e9a840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:17:43.015+0000')
-[http @ 0x56f936ebfb80] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7142.ts' for reading
+[http @ 0x59badd0beb80] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7619.ts' for reading
+[http @ 0x59badd0a0d80] Opening 'http://localhost:8899/hls/0/stream.m3u8' for reading
+[hls @ 0x59badd099840] Skip ('#EXT-X-VERSION:6')
+[hls @ 0x59badd099840] Skip ('#EXT-X-INDEPENDENT-SEGMENTS')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:17.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:18.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:19.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:20.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:21.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:22.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:23.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:24.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:25.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:26.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:27.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:28.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:29.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:30.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:31.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:32.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:33.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:34.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:35.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:36.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:37.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:38.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:39.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:40.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:41.015+0000')
+[http @ 0x59badd0beb80] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7620.ts' for reading
+[http @ 0x59badd0a0d80] Opening 'http://localhost:8899/hls/0/stream.m3u8' for reading
+[hls @ 0x59badd099840] Skip ('#EXT-X-VERSION:6')
+[hls @ 0x59badd099840] Skip ('#EXT-X-INDEPENDENT-SEGMENTS')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:18.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:19.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:20.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:21.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:22.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:23.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:24.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:25.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:26.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:27.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:28.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:29.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:30.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:31.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:32.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:33.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:34.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:35.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:36.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:37.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:38.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:39.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:40.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:41.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:42.015+0000')
+[http @ 0x59badd0beb80] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7621.ts' for reading
+[http @ 0x59badd0a0d80] Opening 'http://localhost:8899/hls/0/stream.m3u8' for reading
+[hls @ 0x59badd099840] Skip ('#EXT-X-VERSION:6')
+[hls @ 0x59badd099840] Skip ('#EXT-X-INDEPENDENT-SEGMENTS')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:19.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:20.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:21.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:22.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:23.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:24.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:25.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:26.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:27.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:28.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:29.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:30.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:31.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:32.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:33.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:34.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:35.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:36.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:37.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:38.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:39.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:40.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:41.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:42.015+0000')
+[hls @ 0x59badd099840] Skip ('#EXT-X-PROGRAM-DATE-TIME:2025-08-09T01:25:43.015+0000')
+[http @ 0x59badd0beb80] Opening 'http://localhost:8899/hls/0/stream-ckLjyN_Ng-7622.ts' for reading
 Output #0, image2, to '/home/mistery/projects/ulx5m-live-bitsream/pic/ul5m-gs.jpg':
   Metadata:
     encoder         : Lavf60.16.100
@@ -190,7 +190,7 @@ Output #0, image2, to '/home/mistery/projects/ulx5m-live-bitsream/pic/ul5m-gs.jp
       encoder         : Lavc60.31.102 mjpeg
     Side data:
       cpb: bitrate max/min/avg: 0/0/200000 buffer size: 0 vbv_delay: N/A
-frame=    0 fps=0.0 q=4.6 size=       0kB time=00:00:00.00 bitrate=N/A speed=   0x    [image2 @ 0x56f93706b6c0] The specified filename '/home/mistery/projects/ulx5m-live-bitsream/pic/ul5m-gs.jpg' does not contain an image sequence pattern or a pattern is invalid.
-[image2 @ 0x56f93706b6c0] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
-[out#0/image2 @ 0x56f936f48000] video:10kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+frame=    0 fps=0.0 q=4.6 size=       0kB time=00:00:00.00 bitrate=N/A speed=   0x    [image2 @ 0x59badd0fe900] The specified filename '/home/mistery/projects/ulx5m-live-bitsream/pic/ul5m-gs.jpg' does not contain an image sequence pattern or a pattern is invalid.
+[image2 @ 0x59badd0fe900] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
+[out#0/image2 @ 0x59badd1470c0] video:10kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
 frame=    1 fps=0.3 q=4.6 Lsize=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
