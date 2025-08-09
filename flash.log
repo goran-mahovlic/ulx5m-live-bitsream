@@ -560,3 +560,10 @@ frame=    0 fps=0.0 q=4.3 size=       0kB time=00:00:00.00 bitrate=N/A speed=   
 [image2 @ 0x62ce41eda900] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
 [out#0/image2 @ 0x62ce41f22ec0] video:10kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
 frame=    1 fps=0.3 q=4.3 Lsize=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+[main bfbb3d8] New picture and log added
+ 2 files changed, 184 insertions(+)
+To github.com:goran-mahovlic/ulx5m-live-bitsream.git
+   1745cbb..bfbb3d8  main -> main
+No new commits.
+No new commits.
+No new commits.
